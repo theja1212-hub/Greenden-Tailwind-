@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration from various plant shop websites
 
 
-Check out the live demo: [GreenDen Website](https://yourusername.github.io/greenden-website)
+Check out the live demo: [GreenDen Website](https://theja1212-hub.github.io/Greenden-Tailwind-/)
 
 ---
 
